@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE ht
 <html lang="id" data-bs-theme="light">
 <head>
     <meta charset="UTF-8">
@@ -717,3 +717,4 @@ s0.parentNode.insertBefore(s1,s0);
   </html>
 
   
+
